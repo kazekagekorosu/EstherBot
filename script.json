@@ -1,5 +1,4 @@
 {
-     "RANDOM" : "KIRI, was set up by one guy in half a day, impressed, I was", 
      "BOT": "Hi there!\n I’m the personal bot of Kiri, a Kiwi Intelligent Response interface. Would you like to know one cool fact about me? %[one cool fact](postback:HELLO)",
     "HELLO": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help %[help](postback:HELP)",
     "TELL HER": "Let's email @ Kiri so the creators know what your up to. Here's something that's ready to go: %[email creator](postback:EMAIL)",
@@ -12,6 +11,7 @@
     "TALOFA": "Talofa, what's up cuz?",
     "NI HAO": "Ni hao ma, how are you?", 
     "KIA ORANA": "Kia orana, you good?",
+      "RANDOM" : "KIRI, was set up by one guy in half a day, impressed, I was", 
     "HELP": "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, RETIREMENT, BRO, KIA ORA, WHAT DO YOU DO, TALOFA, NI HAO, KIA ORANA, HOW DO I GET MORE MONEY FROM GOVT",
     "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
     "EMAIL" : "Hey team, just wanted to drop you a line, here's my email address",
