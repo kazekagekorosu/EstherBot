@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Kiri, a Kiwi Intelligent Response interface.\n![KIRI](http://stream-two.weebly.com/kiri.html) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Kiri, a Kiwi Intelligent Response interface.\n!%[KIRI](http://stream-two.weebly.com/kiri.html) %[One random fact!](postback:RANDOM_FACT)",
     "HELLO": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help? %[help](postback:HELP)",
     "TELL HER": "Let's tweet @ Kiri so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kiri](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
