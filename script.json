@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\n I’m the personal bot of Kiri, a Kiwi Intelligent Response interface.\n %[One random fact!](postback:RANDOM)",
+    "BOT": "Hi there!\n I’m the personal bot of Kiri, a Kiwi Intelligent Response interface. %[One random fact!](postback:RANDOM)",
     "HELLO": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help %[help](postback:HELP)",
     "TELL HER": "Let's email @ Kiri so the creators know what your up to. Here's something that's ready to go: %[email creator](postback:EMAIL)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
