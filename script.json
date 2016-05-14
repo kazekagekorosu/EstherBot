@@ -1,19 +1,20 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Kiri, a Kiwi Intelligent Response system.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set Kiri up! Do you want to tell Kiri that you're talking to her bot? %[Tell her](postback:twitter)",
+    "BOT": "Hi there!\nI’m the personal bot of Kiri, a Kiwi Intelligent Response interface.\n![KIRI](http://stream-two.weebly.com/kiri.html) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help? %[help](postback:HELP)",
     "TELL HER": "Let's tweet @ Kiri so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kiri](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "RETIREMENT": "Cool, you want to know more about retiring? %[Yes I do](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)",
     "BRO": "Chur, what's up?",
     "KIA ORA": "He Waka Eke Noa",
     "WHAT DO YOU DO": "I'm a cool girl, who helps you navigate government services, let me help you, type in BRO",
-    "CONNECT ME": "Hi, you are amazing",
+    "CONNECT ME": "Hi, you are amazing, KiriBot is back",
     "TALOFA": "Chur, what's up cuz?",
     "NI HAO": "Chur, how are you?", 
     "KIA ORANA": "Chur, you good?",
     "HELP": "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, RETIREMENT, BRO, KIA ORA, WHAT DO YOU DO, TALOFA, NI HAO, KIA ORANA, HOW DO I GET MORE MONEY FROM GOVT",
     "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
-    "DISCONNECT": "Roger that, KiriBot is back."
+    "RANDOM_FACT" : "KIRI, was set up by one guy in half a day, impressed, I was",
+    "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
 }
