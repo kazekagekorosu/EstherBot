@@ -4,10 +4,11 @@
     "TELL HER": "Let's tweet @ Kiri so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kiri](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "RETIREMENT": "Cool, you want to know more about retiring? %[Yes I do](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)",
+    "BRO": "Chur, what's up",
+    "KIA ORA": "He Waka Eke Noa",
+    "What do you do": "I'm a cool girl, who helps you navigate government services, let me help you, typ in BRO",
     "CONNECT ME": "Hi, you are amazing",
     "DISCONNECT": "Roger that, KiriBot is back."
-    "BRO": "Chur, what's up"
-    "KIA ORA": "He Waka Eke Noa"
-    "What do you do": "I'm a cool girl, who helps you navigate government services, let me help you, typ in BRO"
+
     
 }
