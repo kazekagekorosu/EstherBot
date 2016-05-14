@@ -12,7 +12,7 @@
     "NI HAO": "Chur, how are you?", 
     "KIA ORANA": "Chur, you good?",
     "HELP": "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, RETIREMENT, BRO, KIA ORA, WHAT DO YOU DO, TALOFA, NI HAO, KIA ORANA, HOW DO I GET MORE MONEY FROM GOVT",
-    "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT",
+    "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
     "DISCONNECT": "Roger that, KiriBot is back."
 
     
