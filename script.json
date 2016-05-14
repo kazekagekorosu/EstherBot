@@ -6,13 +6,13 @@
     "RETIREMENT": "Cool, you want to know more about retiring? %[Yes I do](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)",
     "BRO": "Chur, what's up?",
     "KIA ORA": "He Waka Eke Noa",
-    "What do you do": "I'm a cool girl, who helps you navigate government services, let me help you, typ in BRO",
+    "What do you do": "I'm a cool girl, who helps you navigate government services, let me help you, type in BRO",
     "CONNECT ME": "Hi, you are amazing",
     "Talofa": "Chur, what's up cuz?",
     "Ni hao": "Chur, how are you?", 
     "Kia orana": "Chur, you good?",
     "HELP": "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, RETIREMENT, BRO, KIA ORA, What do you do, Talofa, Ni hao, Kia orana, how do i get more money from government",
-    "how do i get more money from government" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT",
+    "how do i get more money from govt" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT",
     "DISCONNECT": "Roger that, KiriBot is back."
 
     
