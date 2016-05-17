@@ -25,6 +25,7 @@
      "TURNING 65": "Maybe you are eligible, are you a new zealand resident? %[YES](postback:yes) %[NO](postback:no)",
      "YES": "Then most definetely, (very few exceptions), especially if your nearing 65! No other conditions are necessary, you can have it...just the amount is hard to know...you'll want to learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
      "NO": "Then maybe, depending on whether you meet some criteria...you can learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
+     "CAN I HAVE A REAL PERSON": "Sure, I'm working on that functionality...one day soon",
     "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
