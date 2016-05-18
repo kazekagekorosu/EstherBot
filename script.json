@@ -14,7 +14,7 @@
     "KIA ORANA": "Kia orana, you good?",
       "RANDOM" : "KIRI, was set up by one guy in half a day, impressed, I was", 
       "ONE COOL FACT" :"KIRI, was set up by one guy in half a day, impressed? I was",
-    "HELP" : "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, TELL HER, RETIREMENT, BRO, KIA ORA, WHAT DO YOU DO, TALOFA, NI HAO, KIA ORANA, HOW DO I GET MORE MONEY FROM GOVT, \n ONE COOL FACT, EMAIL CREATOR, BOBA FETT",
+    "HELP" : "here's a list of keywords i understand: BOT, HELLO, I LOVE YOU, TELL HER, RETIREMENT, BRO, KIA ORA, WHAT DO YOU DO, TALOFA, NI HAO, KIA ORANA, HOW DO I GET MORE MONEY FROM GOVT, \n ONE COOL FACT, EMAIL CREATOR, BOBA FETT, HELP2",
     "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
        "HOW DO I GET MORE MONEY FROM GOVERNMENT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
           "HOW DO I GET MORE MONEY" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
@@ -27,6 +27,7 @@
      "YES": "Then most definetely, (very few exceptions), especially if your nearing 65! No other conditions are necessary, you can have it...just the amount is hard to know...you'll want to learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
      "NO": "Then maybe, depending on whether you meet some criteria...you can learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
      "CAN I HAVE A REAL PERSON": "Sure, I'm working on that functionality...one day soon",
+     "HELP2" : "more keywords...HOW DO I GET MORE MONEY, CAN I QUALIFY FOR SUPERANUATION WHEN I TURN 65?,SUPERANUATION ENTITLEMENT,PENSION, CAN I HAVE A REAL PERSON, "
     "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
