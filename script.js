@@ -42,22 +42,22 @@ module.exports = new Script({
 /* getReply should allow for some variety in responses for received text messages that 
 do not have an entry in the scripts.json file. */
             function getReply() {
-                var messages = [ "Sorry. I'm not configured with a response to your message. Text HELP to see a few examples.",
-                                 "Hey, I didn't understand that. I suggest saying HELP",
+                var messages = [ "Sorry. I'm not smart enough to understand that. type in HELP to see a couple of things I understand",
+                                 "Hey, sorry, I didn't understand you. Type in HELP and I'll let you know what I can do",
                                  "One day.",
                                  "I'm not that clever yet. Try HELp",
-                                 "The program responds to COMMANDS only. You have to send a command that I understand. :)",
+                                 "I'm Kiri, I'm responsive to certain words only at the moment. You have to ask something that I understand. :) Type HELP to get a short list of things I understand",
                                  "The KiriBot is not a human. It is just a cute chatbot. Text HELP to learn more.",
-                                 "Seriously, you are wayyyyy smarter than KiriBot. It just knows simple stuff, HELP",
-                                 "Yo. I do not know what you are talking about. Send me a HELLO",
-                                 "There is a ton of information in KiriBot. You have to use HELP to find it.",
-                                 "That's interesting. Hhhmmm... I never thought of that. Maybe try HELP",
+                                 "Seriously, you are wayyyyy smarter than me. I just knows simple stuff, type HELP to see what I kind of know ",
+                                 "Well, I don't know about that, trying Saying HELLO",
+                                 "There is a little bit of information in KiriBot, I'm getting a little smarter each day. You have to use HELP to find out what I know.",
+                                 "That's interesting. Hhhmmm... I never thought of that. Type HELP, and I'll let you see what I kind of know",
                                  "Can you say HELP",
-                                 "Yeah... that happens from time to time. Try HELP",
-                                 "That is a ton of words you just wrote there... I really don't know. Try HELP",
-                                 "Right now, punctuation throws me off. Send text without it. Try HELP",
+                                 "Ummm...I sometimes get confused, that happens from time to time. Try HELP to see what I understand",
+                                 "That is a ton of words you just wrote there... I really don't know many of them. Type HELP to see what I can understand",
+                                 "Right now, lots of things make me confused. Type HELLO or Hi or HELP",
                                  "Ouch, I'm not too smart yet, try HELP, for a short list of what I can talk about",
-                                 "I'm not programmed to ignore punctuation. So if you're sending something other than letters... I don't understand it."
+                                 "I'm cool, but not that cool, I can understand somethings, like HELLO, or Ni Hao, or Kia Ora or Help...standard stuff, some sentences too, but they have to be exact! Tricky I know."
                                 ];
 
                 var arrayIndex = Math.floor( Math.random() * messages.length );
