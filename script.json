@@ -18,7 +18,7 @@
     "HOW DO I GET MORE MONEY FROM GOVT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
        "HOW DO I GET MORE MONEY FROM GOVERNMENT" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
           "HOW DO I GET MORE MONEY" : "Well, that depends on what your eligible for, I can't help you yet, one day though, I'll have inbuilt calculators that can tell you what things you could get money for...for now I know about RETIREMENT%[Retirement](postback:RETIREMENT)",
-    "EMAIL CREATOR" : "Hey team, just wanted to drop you a line, here's my email address",
+    "EMAIL CREATOR" : "Just type your email address below and my creator will know, HE KNOWS ALL, jokes, he checks messages every once in a while - you'll get some random message after you put it, but don't worry about that",
     "BOBA FETT" : "Boba Fett! Hey, I love star wars too...you're my kind of person",
     "CAN I QUALIFY FOR SUPERANUATION WHEN I TURN 65?": "Maybe you are eligible, are you a new zealand resident? %[YES](postback:yes) %[NO](postback:no)",
     "SUPERANUATION ENTITLEMENT": "Maybe you're eligible, are you a new zealand resident? %[YES](postback:yes) %[NO](postback:no)",
