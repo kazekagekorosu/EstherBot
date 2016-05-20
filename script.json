@@ -1,7 +1,7 @@
 {
      "BOT": "Hi there! I’m the personal bot of Kiri, a Kiwi Intelligent Response interface. Would you like to know one cool fact about me? %[one cool fact](postback:)",
     "HELLO": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help %[help](postback:HELP)",
-    "Hi": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help %[help](postback:HELP)",
+    "HI": "Hey, I'm so glad you set Kiri up! I'm the Kiwi Intelligent Response Interface, if you need any help, just type help %[help](postback:HELP)",
     "TELL HER": "Let's email @ Kiri so the creators know what your up to. Here's something that's ready to go: %[email creator](postback:EMAIL CREATOR)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "RETIREMENT": "Cool, you want to know more about retiring? %[Yes I do](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)",
