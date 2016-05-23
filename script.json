@@ -28,7 +28,7 @@
      "NO": "Then maybe, depending on whether you meet some criteria...you can learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
      "CAN I HAVE A REAL PERSON": "Sure, I'm working on that functionality...one day soon",
      "HELP2" : "more keywords...HOW DO I GET MORE MONEY, CAN I QUALIFY FOR SUPERANUATION WHEN I TURN 65?, SUPERANUATION ENTITLEMENT,PENSION, CAN I HAVE A REAL PERSON, ",
-     "QUOTE1": "%[quote](EstherBot/img/alanwatts.png)",
+     "QUOTE1": "%[quote](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/alanwatts.png)",
     "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
