@@ -32,10 +32,16 @@
      "NO": "Then maybe, depending on whether you meet some criteria...you can learn more by going to %[This page](http://www.workandincome.govt.nz/eligibility/seniors/superannuation/index.html)", 
      "CAN I HAVE A REAL PERSON": "Sure, I'm working on that functionality...one day soon",
      "HELP2" : "more keywords...HOW DO I GET MORE MONEY, CAN I QUALIFY FOR SUPERANUATION WHEN I TURN 65?, SUPERANUATION ENTITLEMENT,PENSION, CAN I HAVE A REAL PERSON, JABBA HUTT, WAKE UP, LOL, HELP3 ",
-     "HELP3" : "More keywords here...",
+     "HELP3" : "WHAT IS BRO, WHATS FOR LUNCH",
      "QUOTE1": "![alanwatts](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/alanwatts.png)",
       "QUOTE2": "![letsgo](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/letsgo.gif)",
       "KIWISAVER HOMEBUYER GRANT": "Cool, you have to have lived in NZ for x years, and some other stuff %[Learn More](http://www.kiwisaver.govt.nz)",
+       "WHAT IS BRO" : "Big Really Owesomeness",
+         "WHAT IS BRO?" : "Big Really Owesomeness",\
+           "WHAT'S FOR LUNCH" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
+           "WHAT'S FOR LUNCH?" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
+           "WHATS FOR LUNCH" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
+           "WHATS FOR LUNCH?" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
     "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
