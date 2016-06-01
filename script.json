@@ -42,9 +42,9 @@
            "WHAT'S FOR LUNCH?" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
            "WHATS FOR LUNCH" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
            "WHATS FOR LUNCH?" : "I'm a bit hungry, I could go for a byte of something, cookies and chips, probably.",
-           "HI TEAM, WHAT SHALL I HAVE FOR BREAKFAST" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast",
-        "HI TEAM, WHAT SHALL I HAVE FOR BREAKFAST?" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast",
-        "WHAT SHALL I HAVE FOR BREAKFAST" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast",
+           "HI TEAM, WHAT SHALL I HAVE FOR BREAKFAST" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast ![breakfast](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/breakfast.gif)",
+        "HI TEAM, WHAT SHALL I HAVE FOR BREAKFAST?" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast ![breakfast](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/breakfast.gif)",
+        "WHAT SHALL I HAVE FOR BREAKFAST" : "Bacon and eggs and avocado on some delicous grain bread, that's what I always want for breakfast ![breakfast](https://raw.githubusercontent.com/kazekagekorosu/EstherBot/master/img/breakfast.gif)",
     "DISCONNECT": "Roger that, KiriBot is out of here."
 
     
