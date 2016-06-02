@@ -49,7 +49,7 @@ do not have an entry in the scripts.json file. */
                                  "I'm Kiri, I'm responsive to certain words only at the moment. You have to ask something that I understand. :) Type HELP to get a short list of things I understand",
                                  "The KiriBot is not a human. It is just a cute chatbot. Text HELP to learn more.",
                                  "Seriously, you are wayyyyy smarter than me. I just knows simple stuff, type HELP to see what I kind of know ",
-                                 "Well, I don't know about that, trying Saying HELLO",
+                                 "Well, I don't know about that, try Saying HELLO",
                                  "There is a little bit of information in KiriBot, I'm getting a little smarter each day. You have to use HELP to find out what I know.",
                                  "That's interesting. Hhhmmm... I never thought of that. Type HELP, and I'll let you see what I kind of know",
                                  "Can you say HELP",
