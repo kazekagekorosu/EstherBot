@@ -5,10 +5,7 @@
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
     "start": "node heroku"
-  }
-    "engines": {
-    "node": "4.1.1"
-  }
+
   },
   "license": "MIT",
   "dependencies": {
@@ -30,5 +27,14 @@
     "esformatter-quotes": "^1.0.3",
     "eslint": "^2.2.0"
   }
+  
+  {
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.1.1"
+  }
+}
 
 }
