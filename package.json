@@ -5,6 +5,9 @@
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
     "start": "node heroku"
+    "engines": {
+    "node": "4.1.1"
+  }
   },
   "license": "MIT",
   "dependencies": {
